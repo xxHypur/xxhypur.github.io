@@ -35,6 +35,7 @@
 								<li><a href="#C">C#</a></li>
 								<li><a href="#about">About</a></li>
 								<li><a href="#contact">Contact</a></li>
+								<li><a href="#Discord">Discord</a></li>
 								
 								<!--<li><a href="#elements">Elements</a></li>-->
 							</ul>
@@ -96,6 +97,19 @@
 									<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
 									<li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
 								</ul>
+							</article>
+
+							<!-- Discord -->
+							<article id="Discord">
+								<h2 class="major">Discord</h2>
+								<span class="image main"><img src="" alt="" /></span>
+								<iframe src="https://discordapp.com/widget?id=611143709269950484&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+								<script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
+									new Crate({
+										server: '611143709269950484', // Chill Zone
+										channel: '816261463198269441' // #system
+									})
+								</script>
 							</article>
 
 						<!-- Elements -->
